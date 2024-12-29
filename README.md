@@ -1,4 +1,4 @@
-# Adversarial Attacks and Defense Mechanisms
+# 🧨 Adversarial Attacks and Defense Mechanisms
 
 This repository contains implementations of **adversarial attacks** and **defense mechanisms**, developed for **Data Science Lab Project 3 (IASD)** in collaboration with **Nan AN** and **Hangyue Zhao**. The project explores model robustness against adversarial examples and strategies to mitigate their impact. For a detailed presentation of the project and results, refer to the `Report.pdf` file.
 
